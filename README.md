@@ -123,13 +123,13 @@ content through an engaging modern interface.
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
 </p>
 
 ### Data & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
 `Machine Learning` `Random Forest` `Federated Learning`
