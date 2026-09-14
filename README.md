@@ -51,27 +51,6 @@ to people looking for temporary storage.
 
 ---
 
-### 🌾 AgriHive AI — Federated Agricultural Intelligence
-
-A privacy-preserving agricultural intelligence platform exploring
-collaborative machine learning across multiple simulated farms.
-
-**Tech:** `Python` `FastAPI` `Scikit-learn` `Federated Learning`
-
-**Focus:**
-
-- Feature Selection
-- Random Forest
-- Clustered Federated Learning
-- Explainable AI
-- SHAP
-- Digital Twin
-- Particle Swarm Optimization
-
-**Status:** `In Development`
-
----
-
 ### 🛡️ Federated Network IDS
 
 A collaborative network intrusion detection system exploring
