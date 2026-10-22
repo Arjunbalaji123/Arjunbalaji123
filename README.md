@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Arjun Balaji S - Full-Stack Developer and Data/ML learner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Arjunbalaji123/Arjunbalaji123/main/header.svg" alt="Arjun Balaji S - Full-Stack Developer and Data/ML learner" width="100%"/>
 
 <br/>
 
@@ -35,7 +35,7 @@ I'm looking for an **entry-level Software Engineer, Full-Stack Developer or Data
 ## 📈 Effort in numbers
 
 <div align="center">
-  <img src="effort.svg" alt="6 projects built, 20 technologies, 2 hackathons, 7.93 CGPA, 3 honours, 2 career tracks" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Arjunbalaji123/Arjunbalaji123/main/effort.svg" alt="6 projects built, 20 technologies, 2 hackathons, 7.93 CGPA, 3 honours, 2 career tracks" width="100%"/>
 </div>
 
 ---
@@ -128,7 +128,7 @@ If you have an entry-level opening, a project or an idea, I'd like to hear about
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-balaji-s-288b9331b/)
 [![Email](https://img.shields.io/badge/Write_to-sbalajiarjun%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbalajiarjun@gmail.com)
 
-<img src="footer.svg" alt="Footer wave" width="100%"/>
+<img src="https://raw.githubusercontent.com/Arjunbalaji123/Arjunbalaji123/main/footer.svg" alt="Footer wave" width="100%"/>
 
 </div>
 
