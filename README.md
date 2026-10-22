@@ -12,9 +12,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=70A5FD&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Arjunbalaji123&color=70A5FD&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-balaji-s-288b9331b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sbalajiarjun@gmail.com)
 
 </div>
@@ -128,11 +127,11 @@ Data & ML   : Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Arjunbalaji123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arjunbalaji123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Arjunbalaji123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunbalaji123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -143,7 +142,7 @@ Data & ML   : Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arjunbalaji123&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -153,7 +152,7 @@ Data & ML   : Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjunbalaji123&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -163,7 +162,7 @@ Data & ML   : Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arjunbalaji123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -177,9 +176,9 @@ Data & ML   : Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [🏛️ AETHER – Interactive Digital Museum of the Future](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | HTML · CSS · JavaScript · Responsive Design | Interactive digital museum with exhibitions, timelines, favorites and archive browsing; responsive layouts and dynamic JS interactions |
-| [📦 DROP – Peer-to-Peer Storage Marketplace](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Angular · TypeScript · Bootstrap · Angular Signals · Angular Router | P2P storage marketplace with routing, authentication, CAPTCHA, form validation, Signals and search/filtering |
-| [✅ SkillProof – Skill Verification & Portfolio Platform](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | React · Node.js · Express · PostgreSQL · JWT · REST API | Authentication, project verification and certification tracking; manages profiles, skills, assessments, projects and certifications in PostgreSQL |
+| [🏛️ AETHER – Interactive Digital Museum of the Future](https://github.com/Arjunbalaji123/REPO_NAME) | HTML · CSS · JavaScript · Responsive Design | Interactive digital museum with exhibitions, timelines, favorites and archive browsing; responsive layouts and dynamic JS interactions |
+| [📦 DROP – Peer-to-Peer Storage Marketplace](https://github.com/Arjunbalaji123/REPO_NAME) | Angular · TypeScript · Bootstrap · Angular Signals · Angular Router | P2P storage marketplace with routing, authentication, CAPTCHA, form validation, Signals and search/filtering |
+| [✅ SkillProof – Skill Verification & Portfolio Platform](https://github.com/Arjunbalaji123/REPO_NAME) | React · Node.js · Express · PostgreSQL · JWT · REST API | Authentication, project verification and certification tracking; manages profiles, skills, assessments, projects and certifications in PostgreSQL |
 
 </div>
 
@@ -189,9 +188,9 @@ Data & ML   : Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [⚡ AI-Based Campus Energy Consumption & Anomaly Detection](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Python · Pandas · NumPy · Scikit-learn · Matplotlib | Analyzes campus energy data to identify usage patterns and detect anomalies using machine learning |
-| [🛡️ Network Intrusion Detection](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Python · Pandas · Scikit-learn · Random Forest · Federated Learning | Privacy-preserving ML system that detects intrusions using distributed client data and federated model training |
-| [🎓 Student Performance Analysis](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | Python · Pandas · Matplotlib · Scikit-learn | EDA, visualization, correlation analysis and ML to identify factors influencing academic performance |
+| [⚡ AI-Based Campus Energy Consumption & Anomaly Detection](https://github.com/Arjunbalaji123/REPO_NAME) | Python · Pandas · NumPy · Scikit-learn · Matplotlib | Analyzes campus energy data to identify usage patterns and detect anomalies using machine learning |
+| [🛡️ Network Intrusion Detection](https://github.com/Arjunbalaji123/REPO_NAME) | Python · Pandas · Scikit-learn · Random Forest · Federated Learning | Privacy-preserving ML system that detects intrusions using distributed client data and federated model training |
+| [🎓 Student Performance Analysis](https://github.com/Arjunbalaji123/REPO_NAME) | Python · Pandas · Matplotlib · Scikit-learn | EDA, visualization, correlation analysis and ML to identify factors influencing academic performance |
 
 </div>
 
